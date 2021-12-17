@@ -1,2 +1,1 @@
-# rewards-sdk
 # tokenlist-assets
